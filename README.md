@@ -1,7 +1,7 @@
 # podcast-generator 
 #  AI Podcast Generator
 
-An AI-powered application that automatically generates podcast scripts from user-input topics and converts them into natural-sounding audio.
+ AI-powered system that converts topics into fully narrated podcast audio using automated workflows.
 
 ---
 
@@ -48,6 +48,9 @@ podcast-generator/
 └── outputAudio.wav
 
 ---
+## SCREENSHOTS : 
+![App UI](screenshots/Screenshot 2026-03-19 094022.png)
+![Workflow](screenshots/Screenshot 2026-03-19 094114.png)
 
 ## Future Improvements
 
