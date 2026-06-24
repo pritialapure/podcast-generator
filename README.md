@@ -48,11 +48,12 @@ podcast-generator/
 └── outputAudio.wav
 
 ---
-## SCREENSHOTS : <p align="center">
+## SCREENSHOTS : <div > <p align="center">
  ![App UI] <img src="./screenshots/Screenshot 2026-03-19 094022.png" alt="Banner" width="100%">
 </p>
+ <p align="center">
  ![Workflow] <img src="./screenshots/Screenshot 2026-03-19 094114.png" alt="Banner" width="100%">
-</p>
+</p> </div>
 
 
 
