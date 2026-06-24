@@ -47,12 +47,14 @@ podcast-generator/
 ├── n8n-workflow.json
 └── outputAudio.wav
 
----
-## SCREENSHOTS : <div > <p align="center">
- ![App UI] <img src="./screenshots/Screenshot 2026-03-19 094022.png" alt="Banner" width="100%">
+## Screenshots
 
- ![Workflow] <img src="./screenshots/Screenshot 2026-03-19 094114.png" alt="Banner" width="100%">
-</p> </div>
+<p align="center">
+  <img src="./screenshots/Screenshot%202026-03-19%20094022.png" alt="App UI" width="48%" />
+  <img src="./screenshots/Screenshot%202026-03-19%20094114.png" alt="Workflow" width="48%" />
+</p>
+
+
 
 
 
